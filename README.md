@@ -1,2 +1,2 @@
 # hello-world
-A sample repository
+This is a sample repository to help get familiar with git.
